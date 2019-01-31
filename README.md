@@ -19,5 +19,9 @@ prezent, nu există ţară care să nu aibă prefix propriu pentru radioamatoris
 Într-un cuvînt, radioamatorismul este sportul puternic prin modestia lui (nu este zgomotos, nu „ridică tribunele în picioare“), mare prin cauzele nobile ale umanității în slujba cărora pune prietenia între popoare, apreciat şi admirat pentru serviciile aduse omenirii, indiferent de rasă, sex, neam, religie, vîrstă. Numeroasele cazuri de salvare a unei vieţi aflate în pericol, cu ajutorul unui lanț întreg de radioamatori din diferite țări, reprezintă cea mai frumoasă pildă de solidaritate colectivă pusă în slujba omului. lată de ce sportul acesta este îndrăgit îndeosebi de tineri entuziaşti.<br/>
 Activitatea de radioamatorism constă în stabilirea de legături cu radioamatori din ţara noastră sau din alte ţări, prin executarea traficului radio în telefonie sau în telegrafie. Executarea acestui trafic se face în conformitate cu Regulamentul de radiocomunicații al radioamatorilor din R.S.R. Pentru desfăşurarea acestei activităţi se folosesc aparate de radio, receptoare şi emițătoare speciale, de diferite puteri, corespunzătoare clasei de autorizare pe care o au radioamatorii.
 
+![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/equation-ch01-02-02.svg)
 
+<p align="center">
+ <img src="equations/equation-ch01-01.svg" alt="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+</p>
 
