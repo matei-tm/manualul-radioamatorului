@@ -7,6 +7,8 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 
 Referință scan: [https://www.scribd.com/document/137161505/Manualul-Radioamatorului-pdf](https://www.scribd.com/document/137161505/Manualul-Radioamatorului-pdf)
 
+Pentru informații referitoare la reguli de formatare, citește [https://github.com/matei-tm/manualul-radioamatorului/wiki](https://github.com/matei-tm/manualul-radioamatorului/wiki)
+
 # Manualul Radioamatorului
 
 ## INTRODUCERE
