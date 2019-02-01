@@ -5,7 +5,11 @@
 Acest proiect este un demers pentru digitizarea "Manualului radioamatorului". 
 Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 
-Referință scan: [https://www.scribd.com/document/137161505/Manualul-Radioamatorului-pdf](https://www.scribd.com/document/137161505/Manualul-Radioamatorului-pdf)
+Referințe scanări: 
+1. Sursa scribd.com
+[https://www.scribd.com/document/137161505/Manualul-Radioamatorului-pdf](https://www.scribd.com/document/137161505/Manualul-Radioamatorului-pdf)
+2. Sursa Victor Ioan
+[scan-output/manualul-radioamatorului-BUN-V-1.0-531pages-scan-Victor-Ioan.pdf](scan-output/manualul-radioamatorului-BUN-V-1.0-531pages-scan-Victor-Ioan.pdf)
 
 Pentru informații referitoare la reguli de formatare, citește [https://github.com/matei-tm/manualul-radioamatorului/wiki](https://github.com/matei-tm/manualul-radioamatorului/wiki)
 
