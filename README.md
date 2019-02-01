@@ -44,3 +44,5 @@ Activitatea de radioamatorism constă în stabilirea de legături cu radioamator
  <img src="equations/equation-ch01-01.svg" alt="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 </p>
 
+<p align="center">
+ <img src="https://github.com/matei-tm/manualul-radioamatorului/blob/master/src/final/capitol1_fig1.svg" alt="capitol 1 figura 1" />
