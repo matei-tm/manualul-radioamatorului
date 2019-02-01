@@ -45,4 +45,4 @@ Activitatea de radioamatorism constă în stabilirea de legături cu radioamator
 </p>
 
 <p align="center">
- <img src="https://github.com/matei-tm/manualul-radioamatorului/blob/master/src/final/capitol1_fig1.svg" alt="capitol 1 figura 1" />
+ <img src="src/final/capitol1_fig1.svg" alt="capitol 1 figura 1" />
