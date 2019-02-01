@@ -13,6 +13,17 @@ Referințe scanări:
 
 Pentru informații referitoare la reguli de formatare, citește [https://github.com/matei-tm/manualul-radioamatorului/wiki](https://github.com/matei-tm/manualul-radioamatorului/wiki)
 
+## Ce ne propunem
+
+ Proiectul își propune să atragă cât mai mulți voluntari care să contribuie în diferite părți:
+- OCR/dactilografiere text
+- Editare ecuații
+- Reprezentare figuri
+- Corectare ortografică
+... etc
+În final, toată lumea o să fie câștigată. Redăm comunității radioamatorilor un manual de referință, învățăm să folosim unelte digitale de editare, lucrăm în echipă, avem o bază "open source" pentru alte referate/documente/articole.
+"Sharing is Caring!"
+
 # Manualul Radioamatorului
 
 ## INTRODUCERE
