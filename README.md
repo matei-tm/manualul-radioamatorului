@@ -20,8 +20,10 @@ Pentru informații referitoare la reguli de formatare, citește [https://github.
 - Editare ecuații
 - Reprezentare figuri
 - Corectare ortografică
-... etc
+- Menționare greșeli
+
 În final, toată lumea o să fie câștigată. Redăm comunității radioamatorilor un manual de referință, învățăm să folosim unelte digitale de editare, lucrăm în echipă, avem o bază "open source" pentru alte referate/documente/articole.
+
 "Sharing is Caring!"
 
 # Manualul Radioamatorului
