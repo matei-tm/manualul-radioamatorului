@@ -15,7 +15,12 @@ restitutio manualul-radioamatorului
   - [Mulțumiri?](#mul%C8%9Bumiri)
   - [O lume mai bună?](#o-lume-mai-bun%C4%83)
 - [Cum o să arate?](#cum-o-s%C4%83-arate)
-  - [INTRODUCERE](#introducere)
+- [INTRODUCERE](#introducere)
+- [Partea întîi - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ](#partea-%C3%AEnt%C3%AEi---elemente-de-electrotehnic%C4%83-%C5%9Fi-radiotehnic%C4%83)
+  - [Capitolul I](#capitolul-i)
+    - [Fenomenele fundamentale şi legile curentului electric](#fenomenele-fundamentale-%C5%9Fi-legile-curentului-electric)
+      - [1. Constituţia materiei. Electronul](#1-constitu%C5%A3ia-materiei-electronul)
+      - [2. Unităţile de măsură. Semnificaţia și întrebuințarea lor](#2-unit%C4%83%C5%A3ile-de-m%C4%83sur%C4%83-semnifica%C5%A3ia-%C8%99i-%C3%AEntrebuin%C8%9Barea-lor)
 
 
 # Descriere proiect
@@ -95,7 +100,7 @@ Cred că da. În final, toată lumea o să fie câștigată. Redăm comunități
 
 Cartea va fi formatată în sintaxă Markdown. Într-un viitor care depinde de noi va arăta cam așa...
 
-## INTRODUCERE
+# INTRODUCERE
 
 Radioamatorismul - sportul îndrăgit de mulți - indiferent de vîrstă - reprezintă activitatea unde se cer îmbinate armonios efortul fizic
 și inteligența, aptitudinile personale cu cunoştinţele teoretice solide, elanul tineresc cu avîntul imaginaţiei creatoare.<br/>
@@ -106,6 +111,31 @@ prezent, nu există ţară care să nu aibă prefix propriu pentru radioamatoris
 Activitatea de radioamatorism constă în stabilirea de legături cu radioamatori din ţara noastră sau din alte ţări, prin executarea traficului radio în telefonie sau în telegrafie. Executarea acestui trafic se face în conformitate cu Regulamentul de radiocomunicații al radioamatorilor din R.S.R. Pentru desfăşurarea acestei activităţi se folosesc aparate de radio, receptoare şi emițătoare speciale, de diferite puteri, corespunzătoare clasei de autorizare pe care o au radioamatorii.
 
 [...]
+
+# Partea întîi - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ
+
+## Capitolul I
+
+### Fenomenele fundamentale şi legile curentului electric
+
+#### 1. Constituţia materiei. Electronul
+
+[...]
+
+Atomii moleculelor din care sînt alcătuite corpurile simple sau compuse nu au aceleași însușiri, deși toți atomii sînt formați din electroni și protoni. Într-o seamă de corpuri electronii sînt foarte statornici și cu greu se lasă scoși din îmbrățișarea microcosmosului lor. Din
+
+<p align="center">
+ <img src="output/drawings/partea_01/capitolul_01/fig_0001.svg" alt="capitol 1 figura 1" />
+</p>
+<p align="center">
+ <i>Fig. 1</i>
+</p>
+
+familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, parafina, bachelita, masele plastice etc. Ele se numesc _izolanți_ sau _dielectrici_.  
+[...]
+
+#### 2. Unităţile de măsură. Semnificaţia și întrebuințarea lor
+ 
 ![MILIAMPERUL(mA)=\frac{1}{1000}A](output/equations/partea_01/capitolul_01/equation_02.svg)
 
 [...]
@@ -116,12 +146,6 @@ Activitatea de radioamatorism constă în stabilirea de legături cu radioamator
 
 [...]
 
-<p align="center">
- <img src="output/drawings/partea_01/capitolul_01/fig_0001.svg" alt="capitol 1 figura 1" />
-</p>
-<p align="center">
- <i>Fig. 1</i>
-</p>
 
 [...]
 
