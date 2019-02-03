@@ -20,8 +20,8 @@ restitutio manualul-radioamatorului
 
 # Descriere proiect
 
-> Acest proiect este un demers pentru digitizarea cărții "Manual radioamatorului". 
-> Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU; Editure Stadion, 1971
+> Acest proiect este un demers pentru digitizarea cărții "Manualul radioamatorului". 
+> Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU; Editura Stadion, 1971
 
 Referințe scanări: 
 1. Sursa scribd.com
