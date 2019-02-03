@@ -144,6 +144,7 @@ Editura Stadion, 1971
 2. Receptoare superheterodină pentru unde ultrascurte
 
 ## Capitolul VIII
+
 ### Radioemiţătoare de unde scurte
 1. Ceneralități
 2. Oscilatoare pilot
@@ -178,7 +179,7 @@ Editura Stadion, 1971
 11. Un aparut util: rezonanțmetrul
 12. Undametre cu absorbţie
 
-##Capitolul X
+## Capitolul X
 
 ### Perturbarea recepției emisiunilor de radio și televiziune
 
@@ -219,17 +220,17 @@ Editura Stadion, 1971
 
 # Partea a treia - CUM SE OPEREAZĂ O STAȚIE DE RADIOAMATORI
 
-1. Sistemul de rapoarte a recepției în traficul de radioamator
-2. Realizarea legăturilor în telegrafie
-3. Lucrul în telefonie
-4. Cărți de confirmare QSL
+## 1. Sistemul de rapoarte a recepției în traficul de radioamator
+## 2. Realizarea legăturilor în telegrafie
+## 3. Lucrul în telefonie
+## 4. Cărți de confirmare QSL
 
 # Partea a patra - INDICAȚII GENERALE PENTRU INSTRUCTORII RADIOCLUBURILOR
 
-Indicații asupra formării radioamatorilor ca radiotelegrafiști
-Variante asupra formării radioamatorilor ca radiotelegrafiști
-Cunoașterea regulamentelor și a traficului de radioamator
-Cunoașterea stațiilor de radioamator
-Lucrul la stația de radioamator
-Elemente de electronică și radiotehnică
+## Indicații asupra formării radioamatorilor ca radiotelegrafiști
+## Variante asupra formării radioamatorilor ca radiotelegrafiști
+## Cunoașterea regulamentelor și a traficului de radioamator
+## Cunoașterea stațiilor de radioamator
+## Lucrul la stația de radioamator
+## Elemente de electronică și radiotehnică
 
