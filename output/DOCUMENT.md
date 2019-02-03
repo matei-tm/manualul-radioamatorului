@@ -1,12 +1,11 @@
 # restitutio Manualului radioamatorului
 
-Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
-
-
+Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU  
+Editura Stadion, 1971
 
 # Introducere
 
-# Partea întii - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ
+# Partea întîi - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ
 
 ## Capitolul I 
 ### Fenomenele fundamentale şi legile curentului electric
@@ -16,14 +15,14 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 3. Rezistențele
 4. Condensatoarele
 
-### Fenomenele magnelice şi eleclromagnelismul
+### Fenomenele magnetice şi electromagnetismul
 
 1. Magneţii permanenți. Cîmpul magnetic
 2. Cîmpul magnetic al curentului electric. Solenoidul. Electromagnetul
 3. Inducția electromagnetică. Inducţia proprie și inductanța mutuală
 4. Legarea bobinelor în serie și în paralel
 
-### Cureniiul alernativ
+### Curentul alternativ
 
 1. Definiţie. Mărimi caracteristice
 2. Comportarea rezistențelor, condensatoarelor și bobinelor în circuitele de curent alternativ. Factorul de putere
@@ -31,11 +30,11 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 
 ### Surse de curent electric
 
-1. Pila și acumulatoare. Legarea elementelor în serie şi în paralel
+1. Pile și acumulatoare. Legarea elementelor în serie şi în paralel
 2. Maşini electrice
 3. Convertizoare şi vibratoare
 
-### Aparate elecțrice de măsură şi control
+### Aparate electrice de măsură şi control
 
 1. Noţiuni de bază
 2. Măsurarea intensității curentului
@@ -54,7 +53,7 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 ### Undele electromagnetice
 
 1. Formarea undelor electromagnetice
-2. Clasiticarea undelor electromagnetice
+2. Clasificarea undelor electromagnetice
 3. Propagarea undelor radiofonice
 4. Utilizarea undelor radiofonice
 
@@ -64,7 +63,7 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 
 1. Antena — circuit oscilant deschis
 2. Lungimea de undă şi frecventa proprie
-3. Distribuţia intensității și  tensiunii de-a lungul anteni
+3. Distribuţia intensității și  tensiunii de-a lungul antenei
 4. Radiația antenelor. Directivitatea
 5. Caracteristicile principale ale antenelor
 6. Linii de alimentare
@@ -80,10 +79,10 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 2. Construcția diodei
 3. Funcţiile diodei
 4. Înlocuitorii diodei
-5. Trioda. Construcția şi principiul de tuncționare
-6. Funcţite lriodei
-7. Caracieristiciie triodei
-8. Parametrii îiriodei
+5. Trioda. Construcția şi principiul de funcționare
+6. Funcţite triodei
+7. Caracteristicile triodei
+8. Parametrii triodei
 9. Tetroda. Construcţie și funcționare
 10. Utilizarea tetrodelor în montajele radio
 11. Caracteristicile și parametrii tetrodei. Emisiunea secundară
@@ -118,98 +117,119 @@ Autori: Ing. MIHAI TANCIU, Ing. ION VIDRAȘCU
 
 ### Aparate electroacustice
 
-1. Aparale uentru jrarisior marea unitelor sonore în curenli de audiofrecvență ce. 216
-2. Aparate pentru convertirea curenților de audiolrecvență în unde sonore
+1. Aparate pentru transformarea undelor sonore în curenți de audiofrecvență
+2. Aparate pentru convertirea curenților de audiofrecvență în unde sonore
 
 ## Capitolui VI
 
-### Amplificatoare de audivfrecvență
+### Amplificatoare de audiofrecvență
 
-1. Definiţie Parametri de baza
-2. Tipuri de etale amplificatoare 
-3. Amplifteannare de tensiune
-4. Ampliticamare de putere „a... . 1... 1... . 1... . . O237
-5. Replase in amplilicaloare . ., cc |. 1... 1. 1. . . . . . - 942
+1. Definiţie. Parametri de baza
+2. Tipuri de etaje amplificatoare 
+3. Amplificatoare de tensiune
+4. Amplificatoare de putere
+5. Reglaje in amplificatoare
 
 ## Capitolul VII
 
 ### Receptorul de unde scurte
 
-1. Generalituţi ca... . . . .. .. . 1 1. . . . 948
-2. Caracleristicile funda meniale ate radioreceploarelor „ . , .. . . . 947
-3. Receploate cu amplilicare uirectă. „e... . . . . . . . . . . 249
-4. Superhelerodine. , ,. . . . .. . . . . . . . .. ... . .  .   962
-Radioreceploarele de umde wilrascuirie . . . so. . . . . . . .. .. . .. . .. . 286
-|. Receptoare cu ampiilicare directă, Superreacţia . . . . 286
-2, Receplaare superhetevodină pentru unde ultrascurie „288
+1. Generalităţi
+2. Caracteristicile fundamentale ate radioreceptoarelor
+3. Receptoare cu amplificare directă
+4. Superheterodine
 
-## Capitolul Vili
+### Radioreceptoarele de unde ultrascurte
+1. Receptoare cu amplificare directă. Superreacţia
+2. Receptoare superheterodină pentru unde ultrascurte
+
+## Capitolul VIII
 ### Radioemiţătoare de unde scurte
-], Ceneral| tăi . e a * - e o e e * * . e % o e e * e a 9 o e e 9 290
-2 Oscilatoare pilot 1... . cp... n. . . . . . .. . . 29]
-3 Etajul separator (buller) , | . .. . . . . . .  .. . . .. 906
-4. Etajele intermeliare. ,... . ..... cc o... O307
-5, Etajul tina! (amplilicatorul de putere) . . ..,.. . . . . .. OB
-6. Naulrodinarea cc... .....“. . 312
-7. Modulatia şi manipulația ralioemiță!toarelor  . 1... 1... 314
+1. Ceneralități
+2. Oscilatoare pilot
+3. Etajul separator (buffer)
+4. Etajele intermediare
+5. Etajul final (amplificatorul de putere)
+6. Neutrodinarea
+7. Modulatia şi manipulația radioemițătoarelor
 
-## Capitolul lĂ
+## Capitolul IX
 
 ### Laboratorul radioamatorului
-1. Sruife de primă dotare. Amenajarea laboratorului „329
-2. Anlena şi priza le păminl cc... ces... .. 49]
-3. Conlecționarea sasiurilor . a. . . 1 . . . . . . . . . .. . .. 90
-4. Executarea conexiunilor . , . ..  . . .. . . . .. . .. . . n O—OY38
-5. Verificarea rudioreceptoarelor și amplilicatoarelor .,...,... . 243
-6. Alinierea rariorecepioaretor tip superheterodină ., . . . . < ... 23i
-7. Eiatonar-a radiurecectoarelur, , . 1. . 1. . . . . . .. . . . 358
-| Munaje rade e ea. . .  . . . |. . . . . . .. U08
-|, Receptor 0-V.l pentru unde scurte o... . . . . 858.
-Z. Supeheterodina simulă. cu detecția pe grilă. . .. , . . . . . . 36]
-5. Suveriizteridină cu cinci tuburi şi reacţie pozilivi , . . . ... I67
-4, Superiaetermlină cp dublă schimbare de frecvență. ......., . 573
-d, E ani ţa n dee 15 W . . * * . e . . e . . . . * . . . - o . v . IȚ&:
-- G, F mii le via: OM! . - L] . e e . e 4 7 . . * e 8 e a . * . + . 4 I5
-f, Aa (4 și perii '-14 .. |10A$ Hz 9 e e D o * e a a e e e * € o e 39|
-3. fe eee ph su perheterodiriii pentu 144 — 1t6MHz.., . .  . . . . 391
-9. Fimuţaten |îi.U.S, pentrul 49OMHz. cc... . . .  . .  .... .. 895
-- Îi sete atare de 19nN o... . |. 398.
-|]. Un aparu! uiţi: rezonantineltul oa... . .... .. ...... .. 402
-(2, Lisdametir cu absorbţie - + . . .. . . . . . . . . . . . . . 4097
-Capitalul x
-peri urbarea recepției emisiunilor de radio și televiziune . . . . . 416.
-heduerea ar nada i lo Cenerate . . . . . . . . p . . . . . . . a. . 4]C,
-Alxcezeg rarepiteiuz şi aşezarea piestlui . ..... . ... .. . . . e . . IG.
-Preavenitea “aliaţiei emițătorului = » a . e... .. .. . . . . . . . « 418.
-Prevenirea radiațiilor armonicilor de câtre antenă e e e. . . . . . . « 419;
-“lţtre = e . . «. ... . .. . . 0. . | . . . cc... . . . n. . . e . 49
-# Partea a doua
-| | RADIOTELEGRAFIE
-Capiiolul |
-Metodica invăţării transmiterii la manipulator
-2. Scopurile şi ctapele de învăţare . . , . , . . 1... . ... . . . 495:
-2, Țrnusmiulerea semnelor allabetului morse . . . . . .. . . . . . 125
-A Aşezarea şi aputarea mâăiipulatoruluj , e. 1... |. . . . . . . . 430
-4 Învălarea lransimiterii semnelor scurte ,, . . . . . . . . . O4ă
-d, Înwaţarea transmiterii semnelor lungi . , 495
-6. lavăţarea transmiterii semnelor aliabetului morse , . . . . . . , 436
-f. Lweşgierea vitezei de transmilere „cc... 2439
-8. Orsanlzarea şedinţelor de invăţare 2 'rârs mitetii semnelor alialutuiui
-| OT 440
-„ Procesut întulisii reepiiei diipă oua n semnelor altutelultu morse . . O 4U
-, Viteza de transmilere a semnelor la învăţarea recepției alfabetului
-NINȚ . . .  ș o. . . . . . . e o . « . . . *. . * . . . , . 4|i
-2. Învătarea recepiiei semnelor morse. . . cc... Oi9
-3, îcreşterea vilezei de tecepiie e. |. [| OA
-A. Melodele ereşierii şilezei ile reccepiie după auz .. . . . . O444
-B. Meloda lixării şitezei de rtcepţie . . , n. O446
-C. Destâşurarea şedinielor peiitru creşterea vitezei de revenii dinpi
-DUZ . 1 1 . . . . . . . 1... . . . Î. . . . . |. . . . . . € e SE)
-Capitolul [Il
-Havăţarea. recupțiti după auz a transmiterii la manipulator a
-sen.telor morse.
-— Texte ce urmicăză ai ingăţăate la secețiie şi balomuliere . . î. . . . .. . 445:
-530
-# Partea a treia
+1. Scule de primă dotare. Amenajarea laboratorului
+2. Antena şi priza le pămint
+3. Confecționarea șasiurilor
+4. Executarea conexiunilor
+5. Verificarea rudioreceptoarelor și amplilicatoarelor
+6. Alinierea rarioreceptoaretor tip superheterodină
+7. Etalonarea radioreceptoarelor
 
+### Montaje radio
+1. Receptor O-V-l pentru unde scurte
+2. Supeheterodina simplă, cu detecția pe grilă
+3. Supeheterodină cu cinci tuburi şi reacţie pozitivă
+4. Supeheterodină cu dublă schimbare de frecvență
+5. Emițător de 15 W
+6. Emițător de 50 W
+7. Adaptor pentru 144 - 146 MHz
+8. Receptor supeheterodină pentu 144 - 146 MHz
+9. Emițător U.U.S. pentru 145 MHz
+10. Generatoare de ton
+11. Un aparut util: rezonanțmetrul
+12. Undametre cu absorbţie
+
+##Capitolul X
+
+### Perturbarea recepției emisiunilor de radio și televiziune
+
+- Reducerea armonicilor generate
+- Alegerea circuitelor și așezarea pieselor
+- Prevenirea radiaţiei emițătorului
+- Prevenirea radiațiilor armonicilor de către antenă
+- Filtre
+
+# Partea a doua - RADIOTELEGRAFIE
+
+## Capitolul I
+
+### Metodica invăţării transmiterii la manipulator
+1. Scopurile şi etapele de învăţare
+2. Transmiterea semnelor allabetului morse
+3. Aşezarea şi apucarea manipulatorului
+4. Învățarea transmiterii semnelor scurte
+5. Învățarea transmiterii semnelor lungi
+6. Învățarea transmiterii semnelor alfabetului morse
+7. Creșterea vitezei de transmitere
+8. Organizarea şedinţelor de invăţare a transmitetii semnelor alfabetului morse
+
+### Procesut invăţării recepției după auz a semnelor alfabetului morse
+
+1. Viteza de transmitere a semnelor la învăţarea recepției alfabetului morse
+2. Învățarea recepției semnelor morse
+3. Creşterea vitezei de recepție
+    A. Metodele creşterii recepției de recepție după auz
+    B. Metoda fixării vitezei de recepţie
+    C. Desfăşurarea şedințelor pentru creşterea vitezei de recepție după auz
+
+## Capitolul II
+
+### Învățarea recepției după auz a transmiterii la manipulator a semnalelor morse
+
+- Texte ce urmează a fi invăţate la recepție şi transmitere
+
+# Partea a treia - CUM SE OPEREAZĂ O STAȚIE DE RADIOAMATORI
+
+1. Sistemul de rapoarte a recepției în traficul de radioamator
+2. Realizarea legăturilor în telegrafie
+3. Lucrul în telefonie
+4. Cărți de confirmare QSL
+
+# Partea a patra - INDICAȚII GENERALE PENTRU INSTRUCTORII RADIOCLUBURILOR
+
+Indicații asupra formării radioamatorilor ca radiotelegrafiști
+Variante asupra formării radioamatorilor ca radiotelegrafiști
+Cunoașterea regulamentelor și a traficului de radioamator
+Cunoașterea stațiilor de radioamator
+Lucrul la stația de radioamator
+Elemente de electronică și radiotehnică
 
