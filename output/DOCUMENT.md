@@ -219,7 +219,7 @@ familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, paraf
 
 [...]
 
-![MILIAMPERUL(mA)=\frac{1}{1000}A](output/equations/partea_01/capitolul_01/equation_02.svg)
+![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equation_02.svg)
 
 [...]
 
