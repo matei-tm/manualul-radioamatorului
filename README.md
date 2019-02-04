@@ -14,6 +14,7 @@ restitutio manualul-radioamatorului
   - [Experiență?](#experien%C8%9B%C4%83)
   - [Mulțumiri?](#mul%C8%9Bumiri)
   - [O lume mai bună?](#o-lume-mai-bun%C4%83)
+- [Stadiul actual](#stadiul-actual)
 - [Cum o să arate?](#cum-o-s%C4%83-arate)
 - [INTRODUCERE](#introducere)
 - [Partea întîi - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ](#partea-%C3%AEnt%C3%AEi---elemente-de-electrotehnic%C4%83-%C5%9Fi-radiotehnic%C4%83)
@@ -95,6 +96,10 @@ Probabil că da. Mai ales atunci când ne veți semnala o eroare. Mai mult decâ
 Cred că da. În final, toată lumea o să fie câștigată. Redăm comunității radioamatorilor un manual de referință, învățăm să folosim unelte digitale de editare, lucrăm în echipă, avem o bază "open source" pentru alte referate/documente/articole.
 
 "Sharing is Caring!"
+
+# Stadiul actual
+
+Vezi [output/DOCUMENT.md](output/DOCUMENT.md)
 
 # Cum o să arate?
 
