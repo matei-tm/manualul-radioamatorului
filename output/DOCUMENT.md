@@ -277,7 +277,7 @@ Atomul, în mod normal, este neutru, întrucît, după cum am mai spus, sarcina 
 
 [...]
 
-![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equation_02.svg)
+![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equation_0002.svg)
 
 [...]
 
