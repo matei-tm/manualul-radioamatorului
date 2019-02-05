@@ -270,7 +270,7 @@ Atomii moleculelor din care sînt alcătuite corpurile simple sau compuse nu au 
 familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, parafina, bachelita, masele plastice etc. Ele se numesc _izolanți_ sau _dielectrici_.<br/>
 Alte corpuri, dimpotrivă, sint compuse din atomi ai căror electroni izbutesc la un moment dat să scape de sub atracţia nucleului. Ei pătrund în spațiul dintre atomii moleculelor, unde rătăcesc la întîmplare. Din
 familia acestor corpuri lac parte, îndeosebi, metalele şi aliajele lor. Ele se numesc *conductoare* sau *corpuri bune conducătoare de electricitate*, spre deosebire ce celelalte care sînt *rele conducătoare de electricitate*. Cel mai bun conducător este argintul; urmează apoi cuprul, ahiminiul și altele.<br/>
-Dielectrici perfecţi nu există și aceasta pentru că, oricîte măsuri s-ar lua, tot mai îzbutește să fugă cîte in electron. Singurul izolant ideal ar fi vidul absolut, adică acel loc în care, nemaiexistînd materie,adică atomi, nu mai pot fi nici electroni. Dar, pînă astăzi, vidul absolut n-a fost realizat.<br/>
+Dielectrici perfecţi nu există și aceasta pentru că, oricîte măsuri s-ar lua, tot mai îzbutește să fugă cîte un electron. Singurul izolant ideal ar fi vidul absolut, adică acel loc în care, nemaiexistînd materie,adică atomi, nu mai pot fi nici electroni. Dar, pînă astăzi, vidul absolut n-a fost realizat.<br/>
 Atomul, în mod normal, este neutru, întrucît, după cum am mai spus, sarcina negativă a electronilor anulează sarcina pozitivă a protonilor. Primind sau pierzind electroni, el poate deveni însă încărcat negativ — respectiv, pozitiv. Atomii încârcați negativ sau pozitiv se numesc *ioni*.<br/>
 
 #### 2. Unităţile de măsură. Semnificaţia și întrebuințarea lor
