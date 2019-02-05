@@ -272,12 +272,38 @@ Alte corpuri, dimpotrivă, sint compuse din atomi ai căror electroni izbutesc l
 familia acestor corpuri lac parte, îndeosebi, metalele şi aliajele lor. Ele se numesc *conductoare* sau *corpuri bune conducătoare de electricitate*, spre deosebire ce celelalte care sînt *rele conducătoare de electricitate*. Cel mai bun conducător este argintul; urmează apoi cuprul, ahiminiul și altele.<br/>
 Dielectrici perfecţi nu există și aceasta pentru că, oricîte măsuri s-ar lua, tot mai îzbutește să fugă cîte un electron. Singurul izolant ideal ar fi vidul absolut, adică acel loc în care, nemaiexistînd materie,adică atomi, nu mai pot fi nici electroni. Dar, pînă astăzi, vidul absolut n-a fost realizat.<br/>
 Atomul, în mod normal, este neutru, întrucît, după cum am mai spus, sarcina negativă a electronilor anulează sarcina pozitivă a protonilor. Primind sau pierzind electroni, el poate deveni însă încărcat negativ — respectiv, pozitiv. Atomii încârcați negativ sau pozitiv se numesc *ioni*.<br/>
+Circulaţia electronilor prin conductoare poate fi dirijată, în anumite situații, în sens unic. Ea poartă atunci denumirea de *curent electric*.<br/>
+Pentru a produce curent electric se leagă, de exemplu, un conductor între două puncte electrizate diferit, electronii scurgîndu-se astfel de la un punct la celălalt.<br/>
+Electrizarea punctelor considerate se face fie prin frecare, fie, de preferință, cu o sursă de curent — o pilă electrică, bunăoară — care menţine diferența de electrizare „pompînd“ într-una electronii din conductor şi obligîndu-i asttel să circule.<br/>
+Cînd electronii se deplasează tot timpul în acelaşi sens, curentul pe care-l determină se numeşte *continuu*.<br/>
+Un lucru trebuie însă reţinut: în conductoarele solide, curentui circulă întotdeauna *de la negativ la pozitiv*.
+Cu toate că viteza electronilor pe orbitele lor se situează, după cum am arătat, în jurul a 2200 km pe secundă, iar viteza lor de translație (de trecere de la un atom la altul) este şi mai mică, viteza curentului electric este de aproape 300 000 de km pe secundă.<br/>
+Aceasta se explică însă prin faptul că mișcarea la translație începe aproape instantaneu pe tot circuitul parcurs de electroni.<br/>
 
 #### 2. Unităţile de măsură. Semnificaţia și întrebuințarea lor
 
-[...]
+Ca oricare fenomen fizic, curentul electric se caracterizează printr-o serie de mărimi, pentru a căror precizare avem nevoie de un sistem de unităţi de măsură, Dintre acestea, cete mai importante sînt următoarele:<br/>
 
-![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equation_0002.svg)
+I. COULOMB-ul = unitatea de cantitate de electricitate.<br/>
+
+Cînd numărul de electroni în plus sau în minus pe care-i posedă un corp este de 6,28x10<sup>18</sup>, cantitatea de electricitate cu care este încărcat acesta este egală cu 1 COULOMB.<br/>
+Dar cum diferența de mai sus nu are, evident, un caracter practic, unitatea de cantitate de electricitate se măsoară infinit mai uşor, prin cantitatea dintr-o substanță anumită ce se depune într-o baie electrolitică prin trecerea curentului, fără a se preciza însă durata operaţiei.<br/>
+În acest fel s-a stabilit că 1 COULOMB este egal cu cantitatea de electricitate care, trecînd printr-o soluție apoasă de nitrat de argint, depune 1,118 miligrame de argint.<br/>
+
+II. AMPER-ul = unitatea de intensitate de curent.<br/>
+
+După cum intensitatea unui curent de apă se măsoară prin debit (care se exprimă prin numărul de litri ce trece în fiecare secundă printr-o secțiune a conductei), tot astfel se măsoară şi curentul electric, care este egal cu cantitatea de electroni ce se scurge în unitatea de timp printr-o secțiune de conductor.<br/>
+Intensitatea curentului se notează cu litera **I** iar mărimea sa se exprimă în amperi.
+ 1 AMPER = *1 coulomb pe secundă*.
+
+În afară de amper — notat prescurtat cu litera A — în practică se mai folosesc submultiplii săi,<br/>
+![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equation_0002.svg)<br/>
+şi<br/>
+![MICROMPERUL(\mu A)=\frac{1}{1000000}A](equations/partea_01/capitolul_01/equation_0003.svg)<br/>
+
+III. VOLT-ul = unitatea de forţă electromotoare sau de diferenţă de potenţial.<br/>
+
+Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărcat negativ, constituind ceea ce se cheamă „un circuit închis“, în conductor apare un curent electric, care încetează în momentul stabilirii echilibrului sarcinilor electrice. Pentru a persista curentul, ambele corpuri trebuie menținute în starea de electrizare inițială, adică de „circuit deschis”, fapt care nu poate fi realizat decît prin intermediul unei surse separate de curent, care produce forța electromotoare (fig. 4).
 
 [...]
 
