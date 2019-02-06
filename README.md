@@ -19,7 +19,7 @@ restitutio manualul-radioamatorului
 - [INTRODUCERE](#introducere)
 - [Partea întîi - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ](#partea-%C3%AEnt%C3%AEi---elemente-de-electrotehnic%C4%83-%C5%9Fi-radiotehnic%C4%83)
   - [Capitolul I](#capitolul-i)
-    - [Fenomenele fundamentale şi legile curentului electric](#fenomenele-fundamentale-%C5%9Fi-legile-curentului-electric)
+    - [A. Fenomenele fundamentale şi legile curentului electric](#a-fenomenele-fundamentale-%C5%9Fi-legile-curentului-electric)
       - [1. Constituţia materiei. Electronul](#1-constitu%C5%A3ia-materiei-electronul)
       - [2. Unităţile de măsură. Semnificaţia și întrebuințarea lor](#2-unit%C4%83%C5%A3ile-de-m%C4%83sur%C4%83-semnifica%C5%A3ia-%C8%99i-%C3%AEntrebuin%C8%9Barea-lor)
 
@@ -121,7 +121,7 @@ Activitatea de radioamatorism constă în stabilirea de legături cu radioamator
 
 ## Capitolul I
 
-### Fenomenele fundamentale şi legile curentului electric
+### A. Fenomenele fundamentale şi legile curentului electric
 
 #### 1. Constituţia materiei. Electronul
 

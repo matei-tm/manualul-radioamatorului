@@ -2,7 +2,7 @@
 
 - [Partea întîi - ELEMENTE DE ELECTROTEHNICĂ ŞI RADIOTEHNICĂ](#partea-%C3%AEnt%C3%AEi---elemente-de-electrotehnic%C4%83-%C5%9Fi-radiotehnic%C4%83)
   - [Capitolul II](#capitolul-ii)
-    - [Antene](#antene)
+    - [A. Antene](#a-antene)
       - [1. Antena — circuit oscilant deschis](#1-antena--circuit-oscilant-deschis)
       - [2. Lungimea de undă şi frecventa proprie](#2-lungimea-de-und%C4%83-%C5%9Fi-frecventa-proprie)
       - [3. Distribuţia intensității și tensiunii de-a lungul antenei](#3-distribu%C5%A3ia-intensit%C4%83%C8%9Bii-%C8%99i-tensiunii-de-a-lungul-antenei)
@@ -15,7 +15,7 @@
 
 ## Capitolul II
 
-### Antene
+### A. Antene
 
 #### 1. Antena — circuit oscilant deschis
 #### 2. Lungimea de undă şi frecventa proprie
