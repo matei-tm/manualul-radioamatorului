@@ -278,8 +278,6 @@ Atomii moleculelor din care sînt alcătuite corpurile simple sau compuse nu au 
  <i>Fig. 3</i>
 </p>
 
-[...]
-
 familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, parafina, bachelita, masele plastice etc. Ele se numesc _izolanți_ sau _dielectrici_.<br/>
 Alte corpuri, dimpotrivă, sint compuse din atomi ai căror electroni izbutesc la un moment dat să scape de sub atracţia nucleului. Ei pătrund în spațiul dintre atomii moleculelor, unde rătăcesc la întîmplare. Din
 familia acestor corpuri lac parte, îndeosebi, metalele şi aliajele lor. Ele se numesc *conductoare* sau *corpuri bune conducătoare de electricitate*, spre deosebire ce celelalte care sînt *rele conducătoare de electricitate*. Cel mai bun conducător este argintul; urmează apoi cuprul, ahiminiul și altele.<br/>
