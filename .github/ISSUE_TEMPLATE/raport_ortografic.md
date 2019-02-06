@@ -2,8 +2,9 @@
 name: Raportare ortografică
 about: Creați un raport care să ne ajute să ne îmbunătățim conținutul
 title: ''
-labels: ''
+labels: 'corectare ortografică'
 assignees: ''
+projects: 'Reconstrucție document'
 
 ---
 

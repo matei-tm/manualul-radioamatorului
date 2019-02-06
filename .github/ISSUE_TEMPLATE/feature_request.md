@@ -1,20 +1,22 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Cerere funcționalitate
+about: Propune o idee pentru acest proiect
 title: ''
-labels: ''
+labels: 'îmbunătățire'
 assignees: ''
+projects: 'Dezvoltare arhitectură proiect'
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Este solicitarea de funcționalitate legată de o problemă? Te rog descrie.**
+O descriere clară și concisă a problemei. Ex. Sunt întotdeauna frustrat când [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Descrieți soluția dorită**
+O descriere clară și concisă a ceea ce doriți să se întâmple.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Descrieți alternativele pe care le-ați considerat**
+O descriere clară și concisă a oricăror soluții sau funcționalități alternative pe care le-ați luat în considerare.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contextul suplimentar**
+Adăugați aici orice alt context sau capturi de ecran despre solicitarea de caracteristici.
+
