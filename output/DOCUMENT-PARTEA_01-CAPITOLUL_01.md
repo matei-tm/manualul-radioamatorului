@@ -70,8 +70,19 @@ Atomii moleculelor din care sînt alcătuite corpurile simple sau compuse nu au 
  <i>Fig. 1</i>
 </p>
 
-[...]
-[...]
+<p align="center">
+ <img src="drawings/partea_01/capitolul_01/fig_0002.svg" alt="capitol 1 figura 2" />
+</p>
+<p align="center">
+ <i>Fig. 2</i>
+</p>
+
+<p align="center">
+ <img src="drawings/partea_01/capitolul_01/fig_0003.svg" alt="capitol 1 figura 3" />
+</p>
+<p align="center">
+ <i>Fig. 3</i>
+</p>
 
 familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, parafina, bachelita, masele plastice etc. Ele se numesc _izolanți_ sau _dielectrici_.<br/>
 Alte corpuri, dimpotrivă, sint compuse din atomi ai căror electroni izbutesc la un moment dat să scape de sub atracţia nucleului. Ei pătrund în spațiul dintre atomii moleculelor, unde rătăcesc la întîmplare. Din
