@@ -44,7 +44,7 @@ Editura Stadion, 1971
       - [3. Propagarea undelor radiofonice](#3-propagarea-undelor-radiofonice)
       - [4. Utilizarea undelor radiofonice](#4-utilizarea-undelor-radiofonice)
   - [Capitolul II](#capitolul-ii)
-    - [A. Antene](#a-antene)
+    - [Antene](#antene)
       - [1. Antena — circuit oscilant deschis](#1-antena--circuit-oscilant-deschis)
       - [2. Lungimea de undă şi frecventa proprie](#2-lungimea-de-und%C4%83-%C5%9Fi-frecventa-proprie)
       - [3. Distribuţia intensității și tensiunii de-a lungul antenei](#3-distribu%C5%A3ia-intensit%C4%83%C8%9Bii-%C8%99i-tensiunii-de-a-lungul-antenei)
@@ -77,7 +77,7 @@ Editura Stadion, 1971
       - [3. Principiul de funcționare a tranzistoarelor](#3-principiul-de-func%C8%9Bionare-a-tranzistoarelor)
       - [4. Construcția tranzistoarelor](#4-construc%C8%9Bia-tranzistoarelor)
   - [Capitolul IV](#capitolul-iv)
-    - [A. Alimentarea aparatajului radio](#a-alimentarea-aparatajului-radio)
+    - [Alimentarea aparatajului radio](#alimentarea-aparatajului-radio)
       - [1. Surse de alimentare. Generalități](#1-surse-de-alimentare-generalit%C4%83%C8%9Bi)
       - [2. Redresoare](#2-redresoare)
       - [3. Dispozitive de redresare](#3-dispozitive-de-redresare)
@@ -90,11 +90,11 @@ Editura Stadion, 1971
       - [10. Surse de alimentare pentru aparatura portabilă](#10-surse-de-alimentare-pentru-aparatura-portabil%C4%83)
       - [11. Baretoarele](#11-baretoarele)
   - [Capitolul V](#capitolul-v)
-    - [A. Aparate electroacustice](#a-aparate-electroacustice)
+    - [Aparate electroacustice](#aparate-electroacustice)
       - [1. Aparate pentru transformarea undelor sonore în curenți de audiofrecvență](#1-aparate-pentru-transformarea-undelor-sonore-%C3%AEn-curen%C8%9Bi-de-audiofrecven%C8%9B%C4%83)
       - [2. Aparate pentru convertirea curenților de audiofrecvență în unde sonore](#2-aparate-pentru-convertirea-curen%C8%9Bilor-de-audiofrecven%C8%9B%C4%83-%C3%AEn-unde-sonore)
   - [Capitolui VI](#capitolui-vi)
-    - [A. Amplificatoare de audiofrecvență](#a-amplificatoare-de-audiofrecven%C8%9B%C4%83)
+    - [Amplificatoare de audiofrecvență](#amplificatoare-de-audiofrecven%C8%9B%C4%83)
       - [1. Definiţie. Parametri de baza](#1-defini%C5%A3ie-parametri-de-baza)
       - [2. Tipuri de etaje amplificatoare](#2-tipuri-de-etaje-amplificatoare)
       - [3. Amplificatoare de tensiune](#3-amplificatoare-de-tensiune)
@@ -106,11 +106,11 @@ Editura Stadion, 1971
       - [2. Caracteristicile fundamentale ate radioreceptoarelor](#2-caracteristicile-fundamentale-ate-radioreceptoarelor)
       - [3. Receptoare cu amplificare directă](#3-receptoare-cu-amplificare-direct%C4%83)
       - [4. Superheterodine](#4-superheterodine)
-    - [A. Radioreceptoarele de unde ultrascurte](#a-radioreceptoarele-de-unde-ultrascurte)
+    - [B. Radioreceptoarele de unde ultrascurte](#b-radioreceptoarele-de-unde-ultrascurte)
       - [1. Receptoare cu amplificare directă. Superreacţia](#1-receptoare-cu-amplificare-direct%C4%83-superreac%C5%A3ia)
       - [2. Receptoare superheterodină pentru unde ultrascurte](#2-receptoare-superheterodin%C4%83-pentru-unde-ultrascurte)
   - [Capitolul VIII](#capitolul-viii)
-    - [A. Radioemiţătoare de unde scurte](#a-radioemi%C5%A3%C4%83toare-de-unde-scurte)
+    - [Radioemiţătoare de unde scurte](#radioemi%C5%A3%C4%83toare-de-unde-scurte)
       - [1. Ceneralități](#1-ceneralit%C4%83%C8%9Bi)
       - [2. Oscilatoare pilot](#2-oscilatoare-pilot)
       - [3. Etajul separator (buffer)](#3-etajul-separator-buffer)
@@ -141,7 +141,7 @@ Editura Stadion, 1971
       - [11. Un aparut util: rezonanțmetrul](#11-un-aparut-util-rezonan%C8%9Bmetrul)
       - [12. Undametre cu absorbţie](#12-undametre-cu-absorb%C5%A3ie)
   - [Capitolul X](#capitolul-x)
-    - [A. Perturbarea recepției emisiunilor de radio și televiziune](#a-perturbarea-recep%C8%9Biei-emisiunilor-de-radio-%C8%99i-televiziune)
+    - [Perturbarea recepției emisiunilor de radio și televiziune](#perturbarea-recep%C8%9Biei-emisiunilor-de-radio-%C8%99i-televiziune)
       - [1. Reducerea armonicilor generate](#1-reducerea-armonicilor-generate)
       - [2. Alegerea circuitelor și așezarea pieselor](#2-alegerea-circuitelor-%C8%99i-a%C8%99ezarea-pieselor)
       - [3. Prevenirea radiaţiei emițătorului](#3-prevenirea-radia%C5%A3iei-emi%C8%9B%C4%83torului)
@@ -166,8 +166,8 @@ Editura Stadion, 1971
         - [b. Metoda fixării vitezei de recepţie](#b-metoda-fix%C4%83rii-vitezei-de-recep%C5%A3ie)
         - [c. Desfăşurarea şedințelor pentru creşterea vitezei de recepție după auz](#c-desf%C4%83%C5%9Furarea-%C5%9Fedin%C8%9Belor-pentru-cre%C5%9Fterea-vitezei-de-recep%C8%9Bie-dup%C4%83-auz)
   - [Capitolul II](#capitolul-ii-1)
-    - [A. Învățarea recepției după auz a transmiterii la manipulator a semnalelor morse](#a-%C3%AEnv%C4%83%C8%9Barea-recep%C8%9Biei-dup%C4%83-auz-a-transmiterii-la-manipulator-a-semnalelor-morse)
-      - [1. Texte ce urmează a fi invăţate la recepție şi transmitere](#1-texte-ce-urmeaz%C4%83-a-fi-inv%C4%83%C5%A3ate-la-recep%C8%9Bie-%C5%9Fi-transmitere)
+    - [Învățarea recepției după auz a transmiterii la manipulator a semnalelor morse](#%C3%AEnv%C4%83%C8%9Barea-recep%C8%9Biei-dup%C4%83-auz-a-transmiterii-la-manipulator-a-semnalelor-morse)
+      - [Texte ce urmează a fi invăţate la recepție şi transmitere](#texte-ce-urmeaz%C4%83-a-fi-inv%C4%83%C5%A3ate-la-recep%C8%9Bie-%C5%9Fi-transmitere)
 - [Partea a treia - CUM SE OPEREAZĂ O STAȚIE DE RADIOAMATORI](#partea-a-treia---cum-se-opereaz%C4%83-o-sta%C8%9Bie-de-radioamatori)
   - [Capitolul I](#capitolul-i-2)
   - [A. Sistemul de rapoarte a recepției în traficul de radioamator](#a-sistemul-de-rapoarte-a-recep%C8%9Biei-%C3%AEn-traficul-de-radioamator)
@@ -367,7 +367,7 @@ Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărc
 
 ## Capitolul II
 
-### A. Antene
+### <!-- A. -->Antene
 
 #### 1. Antena — circuit oscilant deschis
 #### 2. Lungimea de undă şi frecventa proprie
@@ -408,7 +408,7 @@ Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărc
 
 ## Capitolul IV
 
-### A. Alimentarea aparatajului radio
+### <!-- A. -->Alimentarea aparatajului radio
 
 #### 1. Surse de alimentare. Generalități
 #### 2. Redresoare
@@ -424,14 +424,14 @@ Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărc
 
 ## Capitolul V
 
-### A. Aparate electroacustice
+### <!-- A. -->Aparate electroacustice
 
 #### 1. Aparate pentru transformarea undelor sonore în curenți de audiofrecvență
 #### 2. Aparate pentru convertirea curenților de audiofrecvență în unde sonore
 
 ## Capitolui VI
 
-### A. Amplificatoare de audiofrecvență
+### <!-- A. -->Amplificatoare de audiofrecvență
 
 #### 1. Definiţie. Parametri de baza
 #### 2. Tipuri de etaje amplificatoare 
@@ -448,14 +448,14 @@ Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărc
 #### 3. Receptoare cu amplificare directă
 #### 4. Superheterodine
 
-### A. Radioreceptoarele de unde ultrascurte
+### B. Radioreceptoarele de unde ultrascurte
 
 #### 1. Receptoare cu amplificare directă. Superreacţia
 #### 2. Receptoare superheterodină pentru unde ultrascurte
 
 ## Capitolul VIII
 
-### A. Radioemiţătoare de unde scurte
+### <!-- A. -->Radioemiţătoare de unde scurte
 
 #### 1. Ceneralități
 #### 2. Oscilatoare pilot
@@ -494,7 +494,7 @@ Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărc
 
 ## Capitolul X
 
-### A. Perturbarea recepției emisiunilor de radio și televiziune
+### <!-- A. -->Perturbarea recepției emisiunilor de radio și televiziune
 
 #### 1. Reducerea armonicilor generate
 #### 2. Alegerea circuitelor și așezarea pieselor
@@ -528,9 +528,9 @@ Dacă legăm printr-un conductor un corp încărcat pozitiv cu un altul încărc
 
 ## Capitolul II
 
-### A. Învățarea recepției după auz a transmiterii la manipulator a semnalelor morse
+### <!-- A. -->Învățarea recepției după auz a transmiterii la manipulator a semnalelor morse
 
-#### 1. Texte ce urmează a fi invăţate la recepție şi transmitere
+#### <!-- 1. -->Texte ce urmează a fi invăţate la recepție şi transmitere
 
 # Partea a treia - CUM SE OPEREAZĂ O STAȚIE DE RADIOAMATORI
 
