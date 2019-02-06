@@ -4,7 +4,6 @@ about: Propune o idee pentru acest proiect
 title: ''
 labels: 'îmbunătățire'
 assignees: ''
-projects: 'Dezvoltare arhitectură proiect'
 
 ---
 
@@ -18,5 +17,5 @@ O descriere clară și concisă a ceea ce doriți să se întâmple.
 O descriere clară și concisă a oricăror soluții sau funcționalități alternative pe care le-ați luat în considerare.
 
 **Contextul suplimentar**
-Adăugați aici orice alt context sau capturi de ecran despre solicitarea de caracteristici.
+Adăugați aici orice alt context sau capturi de ecran referitoare la solicitarea de funcționalități.
 

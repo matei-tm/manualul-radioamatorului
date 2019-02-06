@@ -4,7 +4,6 @@ about: Creați un raport care să ne ajute să corectăm formatul conținutului
 title: ''
 labels: 'eroare formatare'
 assignees: ''
-projects: 'Reconstrucție document'
 
 ---
 

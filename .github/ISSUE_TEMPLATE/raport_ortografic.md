@@ -4,7 +4,6 @@ about: Creați un raport care să ne ajute să ne îmbunătățim conținutul
 title: ''
 labels: 'corectare ortografică'
 assignees: ''
-projects: 'Reconstrucție document'
 
 ---
 
