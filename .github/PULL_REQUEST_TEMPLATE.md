@@ -1,0 +1,16 @@
+**IMPORTANT: Vă rugăm să nu creați o cerere de preluare a modificărilor ("Pull request") fără a exista mai întâi o problemă ("Issue") deschisă.**
+
+*Orice schimbare trebuie discutată înainte de a continua. Nerespectarea acestui lucru poate duce la respingerea solicitării de **Pull request**.*
+
+Furnizați suficiente informații pentru ca alții să vă poată examina solicitarea de "Pull request"!
+
+#### Rezumatul schimbărilor
+
+1. am modificat ...
+2. am corectat ...
+3. am fixat ...
+4. am sters ...
+5. am adăugat ...
+
+
+
