@@ -310,9 +310,9 @@ Intensitatea curentului se notează cu litera **I** iar mărimea sa se exprimă 
  1 AMPER = *1 coulomb pe secundă*.
 
 În afară de amper — notat prescurtat cu litera A — în practică se mai folosesc submultiplii săi,<br/>
-![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equation_0002.svg)<br/>
+![MILIAMPERUL(mA)=\frac{1}{1000}A](equations/partea_01/capitolul_01/equ_6c0c896837fa4f2bb4e69acc0e427c22.svg)<br/>
 şi<br/>
-![MICROMPERUL(\mu A)=\frac{1}{1000000}A](equations/partea_01/capitolul_01/equation_0003.svg)<br/>
+![MICROMPERUL(\mu A)=\frac{1}{1000000}A](equations/partea_01/capitolul_01/equ_5d0dd87858e2438ca508a7364f7e24bd.svg)<br/>
 
 III. VOLT-ul = unitatea de forţă electromotoare sau de diferenţă de potenţial.<br/>
 

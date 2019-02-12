@@ -141,12 +141,12 @@ familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, paraf
 
 #### 2. Unităţile de măsură. Semnificaţia și întrebuințarea lor
  
-![MILIAMPERUL(mA)=\frac{1}{1000}A](output/equations/partea_01/capitolul_01/equation_0002.svg)
+![MILIAMPERUL(mA)=\frac{1}{1000}A](output/equations/partea_01/capitolul_01/equ_6c0c896837fa4f2bb4e69acc0e427c22.svg)
 
 [...]
 
 <p align="center">
- <img src="output/equations/partea_01/capitolul_01/equation_0001.svg" alt="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+ <img src="output/equations/partea_01/capitolul_01/equ_73b3f2215a134231a8a83c96422861a5.svg" alt="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 </p>
 
 [...]
