@@ -151,6 +151,12 @@ familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, paraf
 
 [...]
 
+<p align="center">
+ <img src="output/drawings/partea_01/capitolul_01/fig_0004.svg" alt="capitol 1 figura 4" />
+</p>
+<p align="center">
+ <i>Fig. 4</i>
+</p>
 
 [...]
 
