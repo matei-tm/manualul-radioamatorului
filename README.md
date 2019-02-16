@@ -146,7 +146,7 @@ familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, paraf
 [...]
 
 <p align="center">
- <img src="output/equations/partea_01/capitolul_01/equ_73b3f2215a134231a8a83c96422861a5.svg" alt="Z=\sqrt{R^{2}+\left ( L_{\omega}-\frac{1}{C_{\omega}} \right )^{2}}" />
+ <img src="output/equations/partea_01/capitolul_01/equ_2a4b775f09a3415289fb5a1acf511126.svg" alt="Z=\sqrt{R^{2}+\left ( L_{\omega}-\frac{1}{C_{\omega}} \right )^{2}}" />
 </p>
 
 [...]
