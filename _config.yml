@@ -1,1 +1,9 @@
+show_downloads: true
 theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
+
+github:
+  zip_url: https://github.com/matei-tm/manualul-radioamatorului/zipball/master
+  tar_url: https://github.com/matei-tm/manualul-radioamatorului/tarball/master
