@@ -160,3 +160,12 @@ familia acestora fac parte: sticla, porțelanul, cauciucul, mica, hîrtia, paraf
 
 [...]
 
+
+|Denumirea materialului| Constanta dielectrică (ɛ)  |
+|---|---:|
+|Hârtie bachelizată | 5,5  |
+| Bachelită presată | 5,5  | 
+| Cuarț topit | 4,2  | 
+
+
+[...]
