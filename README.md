@@ -1,6 +1,8 @@
 restitutio manualul-radioamatorului
 ===
 
+![GitHub release](https://img.shields.io/github/release-pre/matei-tm/manualul-radioamatorului.svg)
+
 - [restitutio manualul-radioamatorului](#restitutio-manualul-radioamatorului)
 - [Descriere proiect](#descriere-proiect)
   - [Mai multe detalii](#mai-multe-detalii)
